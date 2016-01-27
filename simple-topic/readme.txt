@@ -14,14 +14,14 @@ How to run the example:
 
 2) Fire up the Consumer First
 
-a) open Command Line Window and go into the simple-queue root directory
+a) open Command Line Window and go into the simple-topic root directory
 b) enter this:
 
     mvn -P subscriber
 
 3) Fire up the Producer
 
-a) open another Command Line Window and go into the simple-queue root directory
+a) open another Command Line Window and go into the simple-topic root directory
 b) enter this:
 
     mvn -P publisher
